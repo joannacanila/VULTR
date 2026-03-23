@@ -1,4 +1,4 @@
-﻿package com.vultr.convolve;
+package com.vultr.convolve;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication

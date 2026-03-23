@@ -1,4 +1,4 @@
-﻿package com.vultr.convolve.controller;
+package com.vultr.convolve.controller;
 import com.vultr.convolve.service.ImageMetricsService;
 import com.vultr.convolve.service.ImageMetricsService.ImageMetricsResult;
 import org.springframework.http.HttpHeaders;

@@ -1,4 +1,4 @@
-﻿package com.vultr.convolve.service;
+package com.vultr.convolve.service;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 import javax.imageio.ImageIO;
