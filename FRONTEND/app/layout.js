@@ -1,0 +1,1 @@
+﻿import React from 'react'; export default function RootLayout({ children }) { return React.createElement('html', {lang:'en'}, React.createElement('body', {style:{margin:0,padding:0,background:'#FF4500'}}, children)) }
