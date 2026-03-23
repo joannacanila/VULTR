@@ -1,1 +1,1 @@
-﻿{"framework":"nextjs","rootDirectory":"FRONTEND","buildCommand":"npm run build","outputDirectory":".next","installCommand":"npm install"}
+﻿{"version":2,"builds":[{"src":"FRONTEND/package.json","use":"@vercel/next"}],"routes":[{"src":"(.*)","dest":"FRONTEND/$1"}]}
