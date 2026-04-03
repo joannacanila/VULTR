@@ -1,0 +1,1 @@
+Set-Content -Path "next.config.js" -Encoding utf8 -Value '/** @type {import("next").NextConfig} */const nextConfig = {};module.exports = nextConfig;'npm run dev
